@@ -1,7 +1,7 @@
 Pagodacoin integration/staging tree
 ================================
 
-http://www.pagodacoin.org
+http://www.pagodacoin.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Pagodacoin Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Pagodacoin client sofware, see http://www.pagodacoin.org.
+the Pagodacoin client sofware, see http://www.pagodacoin.com.
 
 License
 -------
@@ -45,7 +45,7 @@ match the project's coding conventions (see `doc/coding.txt`) or are
 controversial.
 
 The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable. [Tags](https://github.com/pagodacoin-project/pagodacoin/tags) are created
+completely stable. [Tags](https://github.com/jugeshreddy/pagoda/tags) are created
 regularly to indicate new official, stable release versions of Pagodacoin.
 
 Testing
